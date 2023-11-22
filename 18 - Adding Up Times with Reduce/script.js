@@ -18,3 +18,4 @@ secondsLeft = secondsLeft % 60;
 
 console.log(hours, minutes, secondsLeft);
 
+//Only works in console
