@@ -3,8 +3,6 @@ let isDown = false;
 let startX;
 let scrollLeft;
 
-
-
 sliders.addEventListener('mousedown', (e) => {
     isDown = true;
     sliders.classList.add('active');
